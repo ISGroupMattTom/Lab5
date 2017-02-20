@@ -1,4 +1,4 @@
-<?
+<?php
 class Helpme extends Application
 {
 
